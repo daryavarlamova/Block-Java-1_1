@@ -5,12 +5,13 @@
  На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
- https://github.com/daryavarlamova/Block-Java-1_1/issues/1#issue-1063908092
-
-  
+ 
+ Неправильный формат поля суммы итогового баланса - https://github.com/daryavarlamova/Block-Java-1_1/issues/1#issue-1063908092
+ 
+   
 Тестировали операцию пополнение счета клиента.
  
-Результат должен быть 2500000000.
+Результат ожидаемый 2500000000.
  
 Результат фактический -1794967296.
  
@@ -20,6 +21,6 @@ https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.mdм
 
 Тестирование производилось в следующем окружении:
  
-Windows 10 X64
+- Windows 10 X64
  
-версия Java11
+- Java 11
