@@ -1,20 +1,18 @@
 # Отчёт о тестировании <Money Transfer>
 
-## Краткое описание
-
 24.11.21 было проведено функциональное тестирование приложения Money Transfer.
 
-На тестирование затрачено: 2 часа
+ На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-https://github.com/daryavarlamova/Block-Java-1_1/issues/1
+ https://github.com/daryavarlamova/Block-Java-1_1/issues/1#issue-1063908092
 
-
-## Описание процесса тестирования
-Тестируем операцию пополнение счета клиента.
-
+  
+Тестировали операцию пополнение счета клиента.
+Результат должен быть 2500000000.
+Результат фактический -1794967296.
 В качестве тестовых данных использовались данные:
-* <https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.mdм>
+https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.mdм
 
 Тестирование производилось в следующем окружении:
 Windows 10 X64
